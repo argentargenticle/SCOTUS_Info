@@ -13,12 +13,12 @@
   "judgment": "Affirmed and remanded, 6-3. Map ruled an unconstitutional racial gerrymander.",
   "votes": {
     "majority": {
-      "author": "Samuel Alito",
+      "author": "Alito",
       "justices": ["Roberts", "Thomas", "Gorsuch", "Kavanaugh", "Barrett"]
     },
     "dissenting": {
-      "author": "Elena Kagan",
-      "joined_by": ["Sonia Sotomayor", "Ketanji Brown Jackson"]
+      "author": "Kagan",
+      "joined_by": ["Sotomayor", "Jackson"]
     }
   },
   "links": {
