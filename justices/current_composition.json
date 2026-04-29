@@ -4,6 +4,8 @@
   "justices": [
     {
       "fullname": "John G. Roberts, Jr.",
+      "firstName" : "John",
+      "lastName" : "Roberts",
       "terms": "2005 - Present",
       "dateNominatedSCOTUS": "09/05/2005",
       "dateJoinedSCOTUS": "09/29/2005",
@@ -15,6 +17,8 @@
     },
     {
       "fullname": "Clarence Thomas",
+      "firstName" : "Clarence",
+      "lastName" : "Thomas",
       "terms": "1991 - Present",
       "dateNominatedSCOTUS": "07/08/1991",
       "dateJoinedSCOTUS": "10/23/1991",
@@ -26,6 +30,8 @@
     },
     {
       "fullname": "Samuel A. Alito, Jr.",
+      "firstName" : "Samuel",
+      "lastName" : "Alito",
       "terms": "2006 - Present",
       "dateNominatedSCOTUS": "11/10/2005",
       "dateJoinedSCOTUS": "01/31/2006",
@@ -37,6 +43,8 @@
     },
     {
       "fullname": "Sonia Sotomayor",
+      "firstName" : "Sonia",
+      "lastName" : "Sotomayor",
       "terms": "2009 - Present",
       "dateNominatedSCOTUS": "06/01/2009",
       "dateJoinedSCOTUS": "08/08/2009",
@@ -48,6 +56,8 @@
     },
     {
       "fullname": "Elena Kagan",
+      "firstName" : "Elena",
+      "lastName" : "Kagan",
       "terms": "2010 - Present",
       "dateNominatedSCOTUS": "05/10/2010",
       "dateJoinedSCOTUS": "08/07/2010",
@@ -59,6 +69,8 @@
     },
     {
       "fullname": "Neil M. Gorsuch",
+      "firstName" : "Neil",
+      "lastName" : "Gorsuch",
       "terms": "2017 - Present",
       "dateNominatedSCOTUS": "02/01/2017",
       "dateJoinedSCOTUS": "04/10/2017",
@@ -70,6 +82,8 @@
     },
     {
       "fullname": "Brett M. Kavanaugh",
+      "firstName" : "Brett",
+      "lastName" : "Kavanaugh",
       "terms": "2018 - Present",
       "dateNominatedSCOTUS": "07/10/2018",
       "dateJoinedSCOTUS": "10/06/2018",
@@ -81,6 +95,8 @@
     },
     {
       "fullname": "Amy Coney Barrett",
+      "firstName" : "Amy",
+      "lastName" : "Barrett",
       "terms": "2020 - Present",
       "dateNominatedSCOTUS": "09/29/2020",
       "dateJoinedSCOTUS": "10/27/2020",
@@ -92,6 +108,8 @@
     },
     {
       "fullname": "Ketanji Brown Jackson",
+      "firstName" : "Ketanji",
+      "lastName" : "Jackson",
       "terms": "2022 - Present",
       "dateNominatedSCOTUS": "02/28/2022",
       "dateJoinedSCOTUS": "06/30/2022",
