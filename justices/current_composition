@@ -1,0 +1,104 @@
+{
+  "courtName": "John Roberts Court",
+  "justices": [
+    {
+      "fullname": "John G. Roberts, Jr.",
+      "terms": "2005 - Present",
+      "dateNominatedSCOTUS": "09/05/2005",
+      "dateJoinedSCOTUS": "09/29/2005",
+      "presidentNominated": "George W. Bush",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominatedTerms": ["2001 - 2009"],
+      "DOB": "01/27/1955",
+      "replacingJustice": "William Rehnquist"
+    },
+    {
+      "fullname": "Clarence Thomas",
+      "terms": "1991 - Present",
+      "dateNominatedSCOTUS": "07/08/1991",
+      "dateJoinedSCOTUS": "10/23/1991",
+      "presidentNominated": "George H.W. Bush",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominatedTerms": ["1989 - 1993"],
+      "DOB": "06/23/1948",
+      "replacingJustice": "Thurgood Marshall"
+    },
+    {
+      "fullname": "Samuel A. Alito, Jr.",
+      "terms": "2006 - Present",
+      "dateNominatedSCOTUS": "11/10/2005",
+      "dateJoinedSCOTUS": "01/31/2006",
+      "presidentNominated": "George W. Bush",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominatedTerms": ["2001 - 2009"],
+      "DOB": "04/01/1950",
+      "replacingJustice": "Sandra Day O'Connor"
+    },
+    {
+      "fullname": "Sonia Sotomayor",
+      "terms": "2009 - Present",
+      "dateNominatedSCOTUS": "06/01/2009",
+      "dateJoinedSCOTUS": "08/08/2009",
+      "presidentNominated": "Barack Obama",
+      "partyOfPresidentNominated": "Democratic",
+      "presidentNominatedTerms": ["2009 - 2017"],
+      "DOB": "06/25/1954",
+      "replacingJustice": "David Souter"
+    },
+    {
+      "fullname": "Elena Kagan",
+      "terms": "2010 - Present",
+      "dateNominatedSCOTUS": "05/10/2010",
+      "dateJoinedSCOTUS": "08/07/2010",
+      "presidentNominated": "Barack Obama",
+      "partyOfPresidentNominated": "Democratic",
+      "presidentNominatedTerms": ["2009 - 2017"],
+      "DOB": "04/28/1960",
+      "replacingJustice": "John Paul Stevens"
+    },
+    {
+      "fullname": "Neil M. Gorsuch",
+      "terms": "2017 - Present",
+      "dateNominatedSCOTUS": "02/01/2017",
+      "dateJoinedSCOTUS": "04/10/2017",
+      "presidentNominated": "Donald Trump",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
+      "DOB": "08/29/1967",
+      "replacingJustice": "Antonin Scalia"
+    },
+    {
+      "fullname": "Brett M. Kavanaugh",
+      "terms": "2018 - Present",
+      "dateNominatedSCOTUS": "07/10/2018",
+      "dateJoinedSCOTUS": "10/06/2018",
+      "presidentNominated": "Donald Trump",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
+      "DOB": "02/12/1965",
+      "replacingJustice": "Anthony Kennedy"
+    },
+    {
+      "fullname": "Amy Coney Barrett",
+      "terms": "2020 - Present",
+      "dateNominatedSCOTUS": "09/29/2020",
+      "dateJoinedSCOTUS": "10/27/2020",
+      "presidentNominated": "Donald Trump",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
+      "DOB": "01/28/1972",
+      "replacingJustice": "Ruth Bader Ginsburg"
+    },
+    {
+      "fullname": "Ketanji Brown Jackson",
+      "terms": "2022 - Present",
+      "dateNominatedSCOTUS": "02/28/2022",
+      "dateJoinedSCOTUS": "06/30/2022",
+      "presidentNominated": "Joe Biden",
+      "partyOfPresidentNominated": "Democratic",
+      "presidentNominatedTerms": ["2021 - 2025"],
+      "DOB": "09/14/1970",
+      "replacingJustice": "Stephen Breyer"
+    }
+  ]
+}
