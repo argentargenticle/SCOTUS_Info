@@ -1,0 +1,29 @@
+{
+  "display_name": "Louisiana v. Callais (Voting Rights Act)",
+  "docket_number": "24-109",
+  "case_name": "Louisiana v. Callais",
+  "date_filed": "August 1, 2024",
+  "date_decided": "April 29, 2026",
+  "plaintiffs": "Phillip Callais",
+  "defendants": [
+    "Nancy Landry (Louisiana Secretary of State)",
+    "State of Louisiana"
+  ],
+  "held": "Because the Voting Rights Act did not require Louisiana to create an additional majority-minority district, no compelling interest justified the State’s use of race in creating SB8, and that map is an unconstitutional racial gerrymander.",
+  "judgment": "Affirmed and remanded, 6-3. Map ruled an unconstitutional racial gerrymander.",
+  "votes": {
+    "majority": {
+      "author": "Samuel Alito",
+      "justices": ["Roberts", "Thomas", "Gorsuch", "Kavanaugh", "Barrett"]
+    },
+    "dissenting": {
+      "author": "Elena Kagan",
+      "joined_by": ["Sonia Sotomayor", "Ketanji Brown Jackson"]
+    }
+  },
+  "links": {
+    "scotus_ruling": "https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf",
+    "scotus_blog": "https://www.scotusblog.com/cases/louisiana-v-callais-2/",
+    "scotus_docket": "https://www.supremecourt.gov/docket/docketfiles/html/public/24-109.html"
+  }
+}
