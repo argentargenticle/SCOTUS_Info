@@ -27,7 +27,7 @@
       "partyOfPresidentNominated": "Republican",
       "presidentNominatedTerms": ["1989 - 1993"],
       "DOB": "06/23/1948",
-      "replacingJustice": "Thurgood Marshall"
+      "replacingJustice": "Thurgood Marshall",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-thomas.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "partyOfPresidentNominated": "Republican",
       "presidentNominatedTerms": ["2001 - 2009"],
       "DOB": "04/01/1950",
-      "replacingJustice": "Sandra Day O'Connor"
+      "replacingJustice": "Sandra Day O'Connor",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-alito.jpg"
     },
     {
@@ -55,7 +55,7 @@
       "partyOfPresidentNominated": "Democratic",
       "presidentNominatedTerms": ["2009 - 2017"],
       "DOB": "06/25/1954",
-      "replacingJustice": "David Souter"
+      "replacingJustice": "David Souter",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-sotomayor.jpg"
     },
     {
@@ -69,7 +69,7 @@
       "partyOfPresidentNominated": "Democratic",
       "presidentNominatedTerms": ["2009 - 2017"],
       "DOB": "04/28/1960",
-      "replacingJustice": "John Paul Stevens"
+      "replacingJustice": "John Paul Stevens",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-kagan.jpg"
     },
     {
@@ -83,7 +83,7 @@
       "partyOfPresidentNominated": "Republican",
       "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
       "DOB": "08/29/1967",
-      "replacingJustice": "Antonin Scalia"
+      "replacingJustice": "Antonin Scalia",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-gorsuch.jpg"
     },
     {
@@ -97,7 +97,7 @@
       "partyOfPresidentNominated": "Republican",
       "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
       "DOB": "02/12/1965",
-      "replacingJustice": "Anthony Kennedy"
+      "replacingJustice": "Anthony Kennedy",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-kavanaugh.jpg"
     },
     {
@@ -111,7 +111,7 @@
       "partyOfPresidentNominated": "Republican",
       "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
       "DOB": "01/28/1972",
-      "replacingJustice": "Ruth Bader Ginsburg"
+      "replacingJustice": "Ruth Bader Ginsburg",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-barrett.jpg"
     },
     {
@@ -125,7 +125,7 @@
       "partyOfPresidentNominated": "Democratic",
       "presidentNominatedTerms": ["2021 - 2025"],
       "DOB": "09/14/1970",
-      "replacingJustice": "Stephen Breyer"
+      "replacingJustice": "Stephen Breyer",
       "image" : "https://supremecourthistory.org/wp-content/uploads/2022/06/supreme-court-associate-justice-brown.jpg"
     }
   ]
