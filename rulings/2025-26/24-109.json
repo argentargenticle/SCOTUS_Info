@@ -12,8 +12,8 @@
   "held": "Because the Voting Rights Act did not require Louisiana to create an additional majority-minority district, no compelling interest justified the State’s use of race in creating SB8, and that map is an unconstitutional racial gerrymander.",
   "judgment": "Affirmed and remanded, 6-3. Map ruled an unconstitutional racial gerrymander.",
   "votes": {
-    "against_plaintiff": ["Alito", "Roberts", "Thomas", "Gorsuch", "Kavanaugh", "Barrett"],
-    "in_favor_plaintiff":["Kagan", "Sotomayor", "Jackson"]
+    "majority": ["Alito", "Roberts", "Thomas", "Gorsuch", "Kavanaugh", "Barrett"],
+    "minority": ["Kagan", "Sotomayor", "Jackson"]
   },
   "links": {
     "scotus_ruling": "https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf",
