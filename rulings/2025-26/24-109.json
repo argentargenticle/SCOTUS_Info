@@ -4,13 +4,13 @@
   "case_name": "Louisiana v. Callais",
   "date_filed": "August 1, 2024",
   "date_decided": "April 29, 2026",
-  "plaintiffs": "Phillip Callais",
-  "defendants": [
+  "ruling": "8-3 (In Favor of Callais)",
+  "petitioner": [
     "Nancy Landry (Louisiana Secretary of State)",
     "State of Louisiana"
   ],
+  "respondent": "Phillip Callais",
   "held": "Because the Voting Rights Act did not require Louisiana to create an additional majority-minority district, no compelling interest justified the State’s use of race in creating SB8, and that map is an unconstitutional racial gerrymander.",
-  "judgment": "Affirmed and remanded, 6-3. Map ruled an unconstitutional racial gerrymander.",
   "votes": {
     "majority": ["Alito", "Roberts", "Thomas", "Gorsuch", "Kavanaugh", "Barrett"],
     "minority": ["Kagan", "Sotomayor", "Jackson"]
