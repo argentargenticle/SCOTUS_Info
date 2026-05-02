@@ -1,133 +1,154 @@
 {
   "courtName": "John Roberts Court",
-  "termStart": "2005",
-  "termEnd": "Present",
   "justices": [
     {
-      "fullname": "John G. Roberts, Jr.",
-      "firstName" : "John",
-      "lastName" : "Roberts",
-      "terms": "2005 - Present",
-      "dateNominatedSCOTUS": "09/05/2005",
-      "dateJoinedSCOTUS": "09/29/2005",
-      "presidentNominated": "George W. Bush",
-      "partyOfPresidentNominated": "Republican",
-      "presidentNominatedTerms": ["2001 - 2009"],
       "DOB": "01/27/1955",
-      "replacingJustice": "William Rehnquist",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-chief-justice-roberts.jpg"
-    },
-    {
-      "fullname": "Clarence Thomas",
-      "firstName" : "Clarence",
-      "lastName" : "Thomas",
-      "terms": "1991 - Present",
-      "dateNominatedSCOTUS": "07/08/1991",
-      "dateJoinedSCOTUS": "10/23/1991",
-      "presidentNominated": "George H.W. Bush",
+      "dateJoinedSCOTUS": "09/29/2005",
+      "dateNominatedSCOTUS": "09/05/2005",
+      "firstName": "John",
+      "fullname": "John G. Roberts, Jr.",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-chief-justice-roberts.jpg",
+      "lastName": "Roberts",
       "partyOfPresidentNominated": "Republican",
-      "presidentNominatedTerms": ["1989 - 1993"],
-      "DOB": "06/23/1948",
-      "replacingJustice": "Thurgood Marshall",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-thomas.jpg"
-    },
-    {
-      "fullname": "Samuel A. Alito, Jr.",
-      "firstName" : "Samuel",
-      "lastName" : "Alito",
-      "terms": "2006 - Present",
-      "dateNominatedSCOTUS": "11/10/2005",
-      "dateJoinedSCOTUS": "01/31/2006",
       "presidentNominated": "George W. Bush",
+      "presidentNominatedTerms": [
+        "2001 - 2009"
+      ],
+      "replacingJustice": "William Rehnquist",
+      "terms": "2005 - Present"
+    },
+    {
+      "DOB": "06/23/1948",
+      "dateJoinedSCOTUS": "10/23/1991",
+      "dateNominatedSCOTUS": "07/08/1991",
+      "firstName": "Clarence",
+      "fullname": "Clarence Thomas",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-thomas.jpg",
+      "lastName": "Thomas",
       "partyOfPresidentNominated": "Republican",
-      "presidentNominatedTerms": ["2001 - 2009"],
+      "presidentNominated": "George H.W. Bush",
+      "presidentNominatedTerms": [
+        "1989 - 1993"
+      ],
+      "replacingJustice": "Thurgood Marshall",
+      "terms": "1991 - Present"
+    },
+    {
       "DOB": "04/01/1950",
+      "dateJoinedSCOTUS": "01/31/2006",
+      "dateNominatedSCOTUS": "11/10/2005",
+      "firstName": "Samuel",
+      "fullname": "Samuel A. Alito, Jr.",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-alito.jpg",
+      "lastName": "Alito",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "George W. Bush",
+      "presidentNominatedTerms": [
+        "2001 - 2009"
+      ],
       "replacingJustice": "Sandra Day O'Connor",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-alito.jpg"
+      "terms": "2006 - Present"
     },
     {
-      "fullname": "Sonia Sotomayor",
-      "firstName" : "Sonia",
-      "lastName" : "Sotomayor",
-      "terms": "2009 - Present",
-      "dateNominatedSCOTUS": "06/01/2009",
-      "dateJoinedSCOTUS": "08/08/2009",
-      "presidentNominated": "Barack Obama",
-      "partyOfPresidentNominated": "Democratic",
-      "presidentNominatedTerms": ["2009 - 2017"],
       "DOB": "06/25/1954",
-      "replacingJustice": "David Souter",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-sotomayor.jpg"
-    },
-    {
-      "fullname": "Elena Kagan",
-      "firstName" : "Elena",
-      "lastName" : "Kagan",
-      "terms": "2010 - Present",
-      "dateNominatedSCOTUS": "05/10/2010",
-      "dateJoinedSCOTUS": "08/07/2010",
+      "dateJoinedSCOTUS": "08/08/2009",
+      "dateNominatedSCOTUS": "06/01/2009",
+      "firstName": "Sonia",
+      "fullname": "Sonia Sotomayor",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-sotomayor.jpg",
+      "lastName": "Sotomayor",
+      "partyOfPresidentNominated": "Democratic",
       "presidentNominated": "Barack Obama",
-      "partyOfPresidentNominated": "Democratic",
-      "presidentNominatedTerms": ["2009 - 2017"],
+      "presidentNominatedTerms": [
+        "2009 - 2017"
+      ],
+      "replacingJustice": "David Souter",
+      "terms": "2009 - Present"
+    },
+    {
       "DOB": "04/28/1960",
-      "replacingJustice": "John Paul Stevens",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-kagan.jpg"
-    },
-    {
-      "fullname": "Neil M. Gorsuch",
-      "firstName" : "Neil",
-      "lastName" : "Gorsuch",
-      "terms": "2017 - Present",
-      "dateNominatedSCOTUS": "02/01/2017",
-      "dateJoinedSCOTUS": "04/10/2017",
-      "presidentNominated": "Donald Trump",
-      "partyOfPresidentNominated": "Republican",
-      "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
-      "DOB": "08/29/1967",
-      "replacingJustice": "Antonin Scalia",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-gorsuch.jpg"
-    },
-    {
-      "fullname": "Brett M. Kavanaugh",
-      "firstName" : "Brett",
-      "lastName" : "Kavanaugh",
-      "terms": "2018 - Present",
-      "dateNominatedSCOTUS": "07/10/2018",
-      "dateJoinedSCOTUS": "10/06/2018",
-      "presidentNominated": "Donald Trump",
-      "partyOfPresidentNominated": "Republican",
-      "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
-      "DOB": "02/12/1965",
-      "replacingJustice": "Anthony Kennedy",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-kavanaugh.jpg"
-    },
-    {
-      "fullname": "Amy Coney Barrett",
-      "firstName" : "Amy",
-      "lastName" : "Barrett",
-      "terms": "2020 - Present",
-      "dateNominatedSCOTUS": "09/29/2020",
-      "dateJoinedSCOTUS": "10/27/2020",
-      "presidentNominated": "Donald Trump",
-      "partyOfPresidentNominated": "Republican",
-      "presidentNominatedTerms": ["2017 - 2021", "2025 - Present"],
-      "DOB": "01/28/1972",
-      "replacingJustice": "Ruth Bader Ginsburg",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-barrett.jpg"
-    },
-    {
-      "fullname": "Ketanji Brown Jackson",
-      "firstName" : "Ketanji",
-      "lastName" : "Jackson",
-      "terms": "2022 - Present",
-      "dateNominatedSCOTUS": "02/28/2022",
-      "dateJoinedSCOTUS": "06/30/2022",
-      "presidentNominated": "Joe Biden",
+      "dateJoinedSCOTUS": "08/07/2010",
+      "dateNominatedSCOTUS": "05/10/2010",
+      "firstName": "Elena",
+      "fullname": "Elena Kagan",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-kagan.jpg",
+      "lastName": "Kagan",
       "partyOfPresidentNominated": "Democratic",
-      "presidentNominatedTerms": ["2021 - 2025"],
+      "presidentNominated": "Barack Obama",
+      "presidentNominatedTerms": [
+        "2009 - 2017"
+      ],
+      "replacingJustice": "John Paul Stevens",
+      "terms": "2010 - Present"
+    },
+    {
+      "DOB": "08/29/1967",
+      "dateJoinedSCOTUS": "04/10/2017",
+      "dateNominatedSCOTUS": "02/01/2017",
+      "firstName": "Neil",
+      "fullname": "Neil M. Gorsuch",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-gorsuch.jpg",
+      "lastName": "Gorsuch",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Donald Trump",
+      "presidentNominatedTerms": [
+        "2017 - 2021",
+        "2025 - Present"
+      ],
+      "replacingJustice": "Antonin Scalia",
+      "terms": "2017 - Present"
+    },
+    {
+      "DOB": "02/12/1965",
+      "dateJoinedSCOTUS": "10/06/2018",
+      "dateNominatedSCOTUS": "07/10/2018",
+      "firstName": "Brett",
+      "fullname": "Brett M. Kavanaugh",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-kavanaugh.jpg",
+      "lastName": "Kavanaugh",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Donald Trump",
+      "presidentNominatedTerms": [
+        "2017 - 2021",
+        "2025 - Present"
+      ],
+      "replacingJustice": "Anthony Kennedy",
+      "terms": "2018 - Present"
+    },
+    {
+      "DOB": "01/28/1972",
+      "dateJoinedSCOTUS": "10/27/2020",
+      "dateNominatedSCOTUS": "09/29/2020",
+      "firstName": "Amy",
+      "fullname": "Amy Coney Barrett",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-barrett.jpg",
+      "lastName": "Barrett",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Donald Trump",
+      "presidentNominatedTerms": [
+        "2017 - 2021",
+        "2025 - Present"
+      ],
+      "replacingJustice": "Ruth Bader Ginsburg",
+      "terms": "2020 - Present"
+    },
+    {
       "DOB": "09/14/1970",
+      "dateJoinedSCOTUS": "06/30/2022",
+      "dateNominatedSCOTUS": "02/28/2022",
+      "firstName": "Ketanji",
+      "fullname": "Ketanji Brown Jackson",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/06/supreme-court-associate-justice-brown.jpg",
+      "lastName": "Jackson",
+      "partyOfPresidentNominated": "Democratic",
+      "presidentNominated": "Joe Biden",
+      "presidentNominatedTerms": [
+        "2021 - 2025"
+      ],
       "replacingJustice": "Stephen Breyer",
-      "image" : "https://supremecourthistory.org/wp-content/uploads/2022/06/supreme-court-associate-justice-brown.jpg"
+      "terms": "2022 - Present"
     }
-  ]
+  ],
+  "termEnd": "Present",
+  "termStart": "2005"
 }
