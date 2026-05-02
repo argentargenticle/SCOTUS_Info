@@ -1,0 +1,24 @@
+{
+  "docket_number": "24-440",
+  "display_name": "Berk v. Choy",
+  "date_filed": "10/18/2024",
+  "date_decided": "1/20/2026",
+  "ruling": "8-3 (In Favor of Berk)",
+  "petitioner": [
+    "Harold R. Berk"
+  ],
+  "respondent": "Wilson C. Choy",
+  "held": "Delaware’s affidavit law does not apply in federal court.",
+  "votes": {
+    "majority": [
+    "Alito", "Roberts", "Thomas", "Gorsuch", "Kavanaugh", "Barrett", "Kagan", "Sotomayor", "Jackson"],
+    "minority": [
+        ""
+    ]
+  },
+  "links": {
+    "scotus_ruling": "https://supreme.justia.com/cases/federal/us/607/24-440/case.pdf",
+    "scotus_blog": "https://www.scotusblog.com/cases/berk-v-choy/",
+    "scotus_docket": "https://www.supremecourt.gov/docket/docketfiles/html/public/24-440.html"
+  }
+} 

@@ -1,0 +1,25 @@
+{
+  "display_name": "",
+  "docket_number": "",
+  "date_filed": "",
+  "date_decided": "",
+  "ruling": "",
+  "petitioner": [
+    ""
+  ],
+  "respondent": "",
+  "held": "",
+  "votes": {
+    "majority": [
+        ""
+    ],
+    "minority": [
+        ""
+    ]
+  },
+  "links": {
+    "scotus_ruling": "",
+    "scotus_blog": "",
+    "scotus_docket": ""
+  }
+} 
