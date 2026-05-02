@@ -1,0 +1,94 @@
+{
+    "courts" : [
+        {
+            "courtName" : "Roberts Court",
+            "startTerm" : "2005",
+            "endTerm" : "Present"
+        },
+        {
+            "courtName" : "Rehnquist Court",
+            "startTerm" : "1986",
+            "endTerm" : "2005"
+        },
+        {
+            "courtName" : "Burger Court",
+            "startTerm" : "1969",
+            "endTerm" : "1986"
+        },
+        {
+            "courtName" : "Warren Court",
+            "startTerm" : "1953",
+            "endTerm" : "1969"
+        },
+        {
+            "courtName" : "Vinson Court",
+            "startTerm" : "1946",
+            "endTerm" : "1953"
+        },
+        {
+            "courtName" : "Stone Court",
+            "startTerm" : "1941",
+            "endTerm" : "1946"
+        },
+        {
+            "courtName" : "Hughes Court",
+            "startTerm" : "1930",
+            "endTerm" : "1941"
+        },
+        {
+            "courtName" : "Taft Court",
+            "startTerm" : "1921",
+            "endTerm" : "1930"
+        },
+        {
+            "courtName" : "White Court",
+            "startTerm" : "1910",
+            "endTerm" : "1921"
+        },
+        {
+            "courtName" : "Fuller Court",
+            "startTerm" : "1888",
+            "endTerm" : "1910"
+        },
+        {
+            "courtName" : "Waite Court",
+            "startTerm" : "1874",
+            "endTerm" : "1910"
+        },
+        {
+            "courtName" : "Chase Court",
+            "startTerm" : "1864",
+            "endTerm" : "1874"
+        },
+        {
+            "courtName" : "Taney Court",
+            "startTerm" : "1836",
+            "endTerm" : "1964"
+        },
+        {
+            "courtName" : "Marshall Court",
+            "startTerm" : "1801",
+            "endTerm" : "1835"
+        },
+        {
+            "courtName" : "Ellsworth Court",
+            "startTerm" : "1796",
+            "endTerm" : "1800"
+        },
+        {
+            "courtName" : "Rutledge Court",
+            "startTerm" : "1795",
+            "endTerm" : "1795"
+        },
+        {
+            "courtName" : "Jay Court",
+            "startTerm" : "1789",
+            "endTerm" : "1795"
+        },
+        {
+            "courtName" : "Pennsylvania Cases",
+            "startTerm" : "1759",
+            "endTerm" : "1789"
+        }
+    ]
+}
