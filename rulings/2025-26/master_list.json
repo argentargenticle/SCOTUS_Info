@@ -6,8 +6,7 @@
             "termDescionMade" : "2025-26",
             "status" : "Decided",
             "ruling" : "8-3 (In Favor of Callais)",
-            "held": "Because the Voting Rights Act did not require Louisiana to create an additional majority-minority district, no compelling interest justified the State’s use of race in creating SB8, and that map is an unconstitutional racial gerrymander.",
-            "link": "https://raw.githubusercontent.com/argentargenticle/SCOTUS_Info/refs/heads/main/rulings/2025-26/24-109.json"
+            "held": "Because the Voting Rights Act did not require Louisiana to create an additional majority-minority district, no compelling interest justified the State’s use of race in creating SB8, and that map is an unconstitutional racial gerrymander."
         },
         {
             "docket_number": "24-440",
@@ -15,8 +14,7 @@
             "termDescionMade" : "2025-26",
             "status" : "Decided",
             "ruling" : "8-3 (In Favor of Berk)",
-            "held": "Delaware’s affidavit law does not apply in federal court.",
-            "link":"https://raw.githubusercontent.com/argentargenticle/SCOTUS_Info/refs/heads/main/rulings/2025-26/24-440.json"
+            "held": "Delaware’s affidavit law does not apply in federal court."
         },
         {
             "docket_number": "24-557",
@@ -24,8 +22,7 @@
             "termDescionMade" : "2025-26",
             "status" : "Decided",
             "ruling" : "9-0(In Favor of Texas)",
-            "held": "A qualified conferral order that prohibits only discussion of the defendant’s testimony for its own sake during a midtestimony overnight recess permissibly balances the defendant’s Sixth Amendment right to counsel against the burden of offering unaltered trial testimony and does not violate the Constitution. ",
-            "link":""
+            "held": "A qualified conferral order that prohibits only discussion of the defendant’s testimony for its own sake during a midtestimony overnight recess permissibly balances the defendant’s Sixth Amendment right to counsel against the burden of offering unaltered trial testimony and does not violate the Constitution. "
         },
         {
             "docket_number": "24-539",
@@ -33,8 +30,7 @@
             "termDescionMade" : "2025-26",
             "status" : "Decided",
             "ruling" : "8-1(In Favor of Chiles)",
-            "held": "Colorado’s law banning conversion therapy, as applied to Ms.Chiles’s talk therapy, regulates speech based on viewpoint, and the lower courts erred by failing to apply sufficiently rigorous First Amendment scrutiny.",
-            "link": ""
+            "held": "Colorado’s law banning conversion therapy, as applied to Ms.Chiles’s talk therapy, regulates speech based on viewpoint, and the lower courts erred by failing to apply sufficiently rigorous First Amendment scrutiny."
         }
     ]
 }
