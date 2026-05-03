@@ -1,0 +1,18 @@
+{
+  "display_name": "United States v. Lopez",
+  "docket_number": "93-1260",
+  "date_argued": "November 8, 1994",
+  "date_decided": "April 26, 1995",
+  "ruling": "5-4 (In Favor/Affirmed on behalf Respondent aka Lopez)",
+  "petitioner": "United States",
+  "respondent": "Lopez",
+  "held": "The Act exceeds Congress' Commerce Clause authority. First, although this Court has upheld a wide variety of congressional Acts regulating intrastate economic activity that substantially affected interstate commerce, the possession of a gun in a local school zone is in no sense an economic activity that might, through repetition elsewhere, have such a substantial effect on interstate commerce. Section 922(q) is a criminal statute that by its terms has nothing to do with `commerce` or any sort of economic enterprise, however broadly those terms are defined.",
+  "votes": {
+    "majority": [
+      "Rehnquist", "O'Connor", "Scalia", "Kennedy", "Thomas"
+    ],
+    "minority": [
+        "Breyer", "Stevens", "Souter", "Ginsburg"
+    ]
+  }
+} 
