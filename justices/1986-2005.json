@@ -1,0 +1,158 @@
+{
+  "courtName": "Rehnquist Court",
+  "justices": [
+    {
+      "DOB": "06/23/1948",
+      "dateJoinedSCOTUS": "10/23/1991",
+      "dateNominatedSCOTUS": "07/08/1991",
+      "firstName": "Clarence",
+      "fullname": "Clarence Thomas",
+      "image": "https://supremecourthistory.org/wp-content/uploads/2022/03/supreme-court-associate-justice-thomas.jpg",
+      "lastName": "Thomas",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "George H.W. Bush",
+      "presidentNominatedTerms": [
+        "1989 - 1993"
+      ],
+      "replacingJustice": "Thurgood Marshall",
+      "terms": "1991 - Present",
+      "status" : "active"
+    },
+    {
+      "DOB": "10/1/1924",
+      "dateJoinedSCOTUS": "12/15/1971",
+      "dateNominatedSCOTUS": "10/22/1971",
+      "firstName": "William",
+      "fullname": "William Rehnquist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/William_Rehnquist_Official_Portrait_as_Chief_Justice.jpg",
+      "lastName": "Rehnquist",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Richard Nixon",
+      "presidentNominatedTerms": [
+        "1969-1974"
+      ],
+      "replacingJustice": "John Marshall Harlan",
+      "terms": "1971-2005",
+      "status" : "died which open seat"
+    },
+    {
+      "DOB": "05/26/1930",
+      "dateJoinedSCOTUS": "09/21/1981",
+      "dateNominatedSCOTUS": "08/19/1981",
+      "firstName": "Sandra",
+      "fullname": "Sandra Day O'Connor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sandra_Day_O%27Connor.jpg",
+      "lastName": "O'Connor",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Ronald Reagan",
+      "presidentNominatedTerms": [
+        "1981-1989"
+      ],
+      "replacingJustice": "Potter Stewart",
+      "terms": "1981-2006",
+      "status" : "retired which open seat"
+    },
+    {
+      "DOB": "03/11/1936",
+      "dateJoinedSCOTUS": "09/26/1986",
+      "dateNominatedSCOTUS": "06/24/1986",
+      "firstName": "Antonin",
+      "fullname": "Antonin Scalia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Antonin_Scalia_Official_SCOTUS_Portrait.jpg",
+      "lastName": "Scalia",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Ronald Reagan",
+      "presidentNominatedTerms": [
+        "1981-1989"
+      ],
+      "replacingJustice": "Warren Burger",
+      "terms": "1986-2016",
+      "status" : "died which open seat"
+    },
+    {
+      "DOB": "07/23/1936",
+      "dateJoinedSCOTUS": "02/17/1988",
+      "dateNominatedSCOTUS": "11/12/1987",
+      "firstName": "Anthony",
+      "fullname": "Anthony Kennedy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Anthony_Kennedy_official_SCOTUS_portrait.jpg",
+      "lastName": "Kennedy",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Ronald Reagan",
+      "presidentNominatedTerms": [
+        "1981-1989"
+      ],
+      "replacingJustice": "Lewis Powell",
+      "terms": "1988-2018",
+      "status" : "retired which open seat"
+    },
+    {
+      "DOB": "08/15/1938",
+      "dateJoinedSCOTUS": "07/29/1994",
+      "dateNominatedSCOTUS": "04/17/1994",
+      "firstName": "Stephen",
+      "fullname": "Stephen Breyer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Stephen_Breyer%2C_SCOTUS_photo_portrait.jpg",
+      "lastName": "Breyer",
+      "partyOfPresidentNominated": "Democratic",
+      "presidentNominated": "Bill Clinton",
+      "presidentNominatedTerms": [
+        "1993-2001"
+      ],
+      "replacingJustice": "Harry Blackmun",
+      "terms": "1994-2022",
+      "status" : "retired which open seat"
+    },
+    {
+      "DOB": "05/20/1920",
+      "dateJoinedSCOTUS": "12/17/1975",
+      "dateNominatedSCOTUS": "11/28/1975",
+      "firstName": "John",
+      "fullname": "John Paul Stevens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA68y2hjJNgz4m3xoVjt84COPIIoKzaxQ6CA&s",
+      "lastName": "Stevens",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "Gerald Ford",
+      "presidentNominatedTerms": [
+        "1974-1977"
+      ],
+      "replacingJustice": "William O. Douglas",
+      "terms": "1975-2010",
+      "status" : "retired which open seat"
+    },
+    {
+      "DOB": "09/17/1939",
+      "dateJoinedSCOTUS": "10/03/1990",
+      "dateNominatedSCOTUS": "07/25/1990",
+      "firstName": "David",
+      "fullname": "David Souter",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/DavidSouter.jpg",
+      "lastName": "Souter",
+      "partyOfPresidentNominated": "Republican",
+      "presidentNominated": "George H.W. Bush",
+      "presidentNominatedTerms": [
+        "1989-1993"
+      ],
+      "replacingJustice": "William Brennan",
+      "terms": "1990-2009",
+      "status" : "retired which open seat"
+    },
+    {
+      "DOB": "03/15/1933",
+      "dateJoinedSCOTUS": "06/22/1993",
+      "dateNominatedSCOTUS": "09/03/1993",
+      "firstName": "Ruth",
+      "fullname": "Ruth Bader Ginsburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg",
+      "lastName": "Ginsburg",
+      "partyOfPresidentNominated": "Democratic",
+      "presidentNominated": "Bill Clinton",
+      "presidentNominatedTerms": [
+        "1993-2001"
+      ],
+      "replacingJustice": "Byron White",
+      "terms": "1993-2020",
+      "status" : "died which open seat"
+    }
+  ]
+}
